@@ -1,5 +1,5 @@
 {
-  "name": "slideshow-project",
+  "name": "digest-20251118",
   "version": "1.0.0",
   "description": "My Remotion video",
   "repository": {},
@@ -7,11 +7,13 @@
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.431",
+    "@remotion/tailwind-v4": "4.0.431",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.431",
-    "@remotion/tailwind-v4": "4.0.431",
-    "tailwindcss": "4.0.0"
+    "tailwindcss": "4.0.0",
+    "tone": "^15.1.22",
+    "wav-encoder": "^1.3.0"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.431",
